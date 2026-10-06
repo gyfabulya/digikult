@@ -1,0 +1,11 @@
+Euró árfolyam (Ft):	365
+		
+Termék	Ár (Ft)	Ár (€)
+Kifli	120	
+Szendvics	800	
+Üdítő	500	
+		
+Összesen (Ft):	
+Átlagos ár (Ft):	
+Legdrágább termék (Ft):	
+500 Ft-nál drágább termékek száma:	
